@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity and C#.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me mandrogo8@gmail.com for real official stuff or valdeka08#1090 for not really official stuff.
+- 👍 I have a crippling madness combat addiction, just like ATPgaming.
 
 <!---
 Drogo-man/Drogo-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
